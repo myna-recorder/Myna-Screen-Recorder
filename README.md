@@ -16,7 +16,7 @@
   <a href="https://mynarecorder.com/screen-recorder/changelog">Changelog</a>
 </p>
 
-![The capture bar: choose what to record, the frame rate and the quality, then press Record.](https://mynarecorder.com/assets/sr/bar.webp)
+![The Screen Recorder bar with its video panel open: frame rate, output size, quality and the encoder choices.](https://mynarecorder.com/assets/sr/bar-video.png)
 
 ## Features
 
@@ -31,15 +31,6 @@
 - **Trim, crop and GIF:** trim without re-encoding, crop to an area, shrink to 8, 25 or 50 MB, or turn a clip into a GIF.
 - **Screenshots** (PNG, JPG, BMP), **audio only** (M4A or WAV), **webcam overlay**, **text and logo overlays**.
 - **25 languages**, and controls that work with screen readers.
-
-## Screenshots
-
-| | |
-|---|---|
-| ![Settings, Video: frame rate, quality, codec and encoder.](https://mynarecorder.com/assets/sr/settings-video.webp) | ![Your recordings: videos, audio, images and GIFs.](https://mynarecorder.com/assets/sr/videos-window.webp) |
-| Settings, Video: frame rate, quality, codec and encoder. | Your recordings: videos, audio, images and GIFs, each with a Share link button. |
-| ![Make a GIF: choose the range and the area, then preview it.](https://mynarecorder.com/assets/sr/gif-maker.webp) | ![Preview: the original beside the encoded picture.](https://mynarecorder.com/assets/sr/encoder-preview.webp) |
-| Make a GIF: choose the range and the area, then Preview plays the real GIF. | Preview: the original beside the encoded picture, with zoom and the size per minute. |
 
 ## Download
 
