@@ -21,7 +21,7 @@
 ## Features
 
 - **Screen, window, area or around the mouse.** Record one screen, one window, a rectangle you drag out, or a frame that follows the pointer. 16:9, 4:3, 1:1 or 9:16.
-- **Any frame rate.** Never capped to your screen's refresh rate: up to 4K at 240 fps with the full version.
+- **Any frame rate.** Never capped to your screen's refresh rate: up to 1080p at 60 fps free, up to 4K at 240 fps with the full version.
 - **PC sound and microphone** on the same clock, with noise reduction, push-to-talk, separate volume sliders, and the two saved as separate WAV files if you like.
 - **Small files, or lossless.** Small, Balanced, High or Indistinguishable quality as hardware-encoded MP4, or Lossless: every pixel exact, in an MKV file. H.264 free; HEVC and AV1 with the full version.
 - **Share a link.** Turn on Myna Cloud and the link is on your clipboard the moment you stop; the recording uploads in the background.
@@ -42,12 +42,15 @@ When you open the file, Windows may show "Windows protected your PC". Choose **M
 
 ## Free, or the full version
 
-| | Free | Full version |
-|---|---|---|
-| Recording length | Any length | Any length |
-| Resolution and frame rate | Up to 720p at 60 fps | Up to 4K at 240 fps |
-| Myna Cloud storage | 2 GB, links kept 15 days | 50, 100, 200 or 500 GB |
-| Price | $0 | From $6 a month |
+| | Without an account | Free account | Full version |
+|---|---|---|---|
+| Recording length | Up to 5 minutes | Any length | Any length |
+| Resolution and frame rate | Up to 720p at 30 fps | Up to 1080p at 60 fps | Up to 4K at 240 fps |
+| Quality | Small, Balanced | Small, Balanced | All, including Lossless |
+| HEVC and AV1 | — | — | ✓ |
+| Instant replay, overlays, trimming and GIFs | — | ✓ | ✓ |
+| Myna Cloud share links | — | 2 GB, 720p, kept 15 days | 50 to 500 GB, up to 4K |
+| Price | $0 | $0 | From $6 a month |
 
 A new account starts with a 7-day trial of the full version. See [pricing](https://mynarecorder.com/screen-recorder/pricing) for every plan.
 
